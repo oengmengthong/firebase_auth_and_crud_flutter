@@ -1,16 +1,11 @@
 # firebase_auth_and_crud_flutter
 
-A new Flutter project.
+Setup and installation
 
-## Getting Started
+1. install flutter
 
-This project is a starting point for a Flutter application.
+2. link to firebase project
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+a. create firebase project
+b. dart pub global activate flutterfire_cli
+c. flutterfire configure --project=<project-id>

@@ -41,3 +41,16 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+
+macos/Runner/GoogleService-Info.plist
+macos/firebase_app_id_file.json
+storage.rules
+ios/Runner/GoogleService-Info.plist
+ios/firebase_app_id_file.json
+.firebase/
+.firebaserc
+android/app/google-services.json
+firebase.json
+firestore.indexes.json
+firestore.rules
